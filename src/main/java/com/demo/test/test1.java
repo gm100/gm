@@ -8,8 +8,6 @@ import java.util.Date;
 public class test1 {
     public static void main(String[] args) {
         Date da =new Date();
-
+        System.out.println();
     }
-
-
 }

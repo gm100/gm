@@ -16,6 +16,8 @@ public class BlogController extends Controller {
     }
 
     public void add() {
+        System.out.println("aaa");
+
     }
 
     @Before(BlogValidator.class)
